@@ -38,5 +38,5 @@ public class Product {
 
     @ManyToOne
     @JoinColumn(name = "type_id", referencedColumnName = "type_id")
-    private ProductType productType;
+    private Category category;
 }

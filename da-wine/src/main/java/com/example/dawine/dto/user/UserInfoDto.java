@@ -1,4 +1,4 @@
-package com.example.dawine.dto;
+package com.example.dawine.dto.user;
 
 import com.example.dawine.model.user.UserRole;
 import com.fasterxml.jackson.annotation.JsonBackReference;

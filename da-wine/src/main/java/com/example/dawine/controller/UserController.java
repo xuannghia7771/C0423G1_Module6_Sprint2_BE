@@ -1,8 +1,8 @@
 package com.example.dawine.controller;
 
 import com.example.dawine.config.JwtTokenUtil;
-import com.example.dawine.dto.AppUserDto;
-import com.example.dawine.dto.AppUserLoginDto;
+import com.example.dawine.dto.user.AppUserDto;
+import com.example.dawine.dto.user.AppUserLoginDto;
 import com.example.dawine.model.user.AppUser;
 import com.example.dawine.model.user.JwtResponse;
 import com.example.dawine.service.user.IAppUserService;

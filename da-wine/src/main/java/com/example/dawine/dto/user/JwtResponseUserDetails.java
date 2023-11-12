@@ -1,4 +1,4 @@
-package com.example.dawine.dto;
+package com.example.dawine.dto.user;
 
 
 import org.springframework.security.core.GrantedAuthority;

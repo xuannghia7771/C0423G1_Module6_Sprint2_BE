@@ -1,6 +1,6 @@
 package com.example.dawine.service.user;
 
-import com.example.dawine.dto.JwtResponseUserDetails;
+import com.example.dawine.dto.user.JwtResponseUserDetails;
 import com.example.dawine.model.user.AppUser;
 import com.example.dawine.model.user.UserRole;
 import com.example.dawine.repository.user.IAppUserRepository;
